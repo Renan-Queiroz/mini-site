@@ -1,0 +1,45 @@
+body{
+    background-color: #DCDCDC;
+}
+
+header {
+    text-align: center;
+
+    .profile {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+
+        object-fit: cover;}
+}
+
+main {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.0rem;
+    font-weight: bold;
+
+    }
+
+main .profile-renan{
+     width: 180px;
+        height: 180px;
+        border-radius: 100%;
+
+        object-fit: cover;
+
+}   
+
+header p {
+    font-size: 2.0rem;
+    font-weight: bolder;
+
+}
+
+section h2 {
+    font-size: 3,0rem;
+    font-weight: bold;
+}
+
+ul li {
+    background-color: ghostwhite;
+}
